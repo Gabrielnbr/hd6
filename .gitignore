@@ -160,4 +160,10 @@ cython_debug/
 #.idea/
 
 hd6
+<<<<<<< HEAD
 notebook_hackday_06 copy.ipynb
+=======
+
+notebook_hackday_06 copy.ipynb
+features_tatlitha_e_arthur.txt
+>>>>>>> a62dfdcd665d30f43610ae656c29a51b2dda2c3f
